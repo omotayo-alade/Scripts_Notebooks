@@ -130,6 +130,6 @@ dmypy.json
 
 #Jupyter
 .idea
-.idea/
 .ipynb_checkpoints
+.idea/
 .ipynb_checkpoints/
