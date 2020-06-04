@@ -1,1 +1,2 @@
 cars = https://www.kaggle.com/uciml/autompg-dataset
+diabetes =https://www.kaggle.com/uciml/pima-indians-diabetes-database
